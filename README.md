@@ -1,5 +1,5 @@
-# DeepClassifyML
-
+# PLEAE NOTE: THIS IS AN ARCHIVED REPO
+This repo was used for a code presentation for WWCodePython, and is no longer up-to-date.  Please do not PR or Clone.  Thanks! 
 
 A Web Application made with Flask to classify Respiratory Diseases from Chest X-rays
 
